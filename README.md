@@ -1,5 +1,5 @@
 # Trabalho de contabilidade
-Esse algoritmo foi feito para ser utilizado com o arquivo contas.xlsx 
+Esse algoritmo foi feito para ser utilizado com o arquivo custos.xlsx 
 
 # Link com a exibição dos dados:
 https://insight-petal-plot.lovable.app/
